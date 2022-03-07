@@ -20,7 +20,18 @@ namespace TestGit
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    
                     webBuilder.UseStartup<Startup>();
                 });
+       
+
+
+
+
+        //test test
+        //test2
+
+
+        
     }
 }
